@@ -1,6 +1,6 @@
 ## Opa Mochi Mochi, tudo bão? Prazer, Leandro Menoni.
 
-  Sou estudante do 2º ano de Engenharia de Software no IFPR. Adoro aprender coisas novas e me desafiar constantemente. Nos meus momentos livres, curto jogar. Se quiser bater um papo ou jogar junto, sinta-se à vontade para me adicionar no Discord ou na Steam. Tenha um ótimo dia!
+  Sou estudante do 3º ano de Engenharia de Software no IFPR. Adoro aprender coisas novas e me desafiar constantemente. Nos meus momentos livres, curto jogar. Se quiser bater um papo ou jogar junto, sinta-se à vontade para me adicionar no Discord ou na Steam. Tenha um ótimo dia!
 ##
 <p>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=MenoniJesus" height="150" alt="stats graph"  />
