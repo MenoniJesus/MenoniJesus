@@ -4,19 +4,11 @@
 
 I am a third-year Software Engineering student at IFPR. I enjoy learning new and challenging things. I want to become a good game developer and, who knows, maybe also work as a DevSecOps, certified by AWS Cloud Practitioner. I am always open to exchanging knowledge and learning more. If you want to chat, just reach out to me on LinkedIn or Discord.
 
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=MenoniJesus" />
-    </td>
-    <td width="30%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=MenoniJesus" />
-    </td>
-    <td width="35%" align="center">
-      <img src="https://streak-stats.demolab.com?user=MenoniJesus&theme=dark&locale=en&mode=daily&currStreakNum=50fa7b&sideNums=f8f8f2&sideLabels=50fa7b&dates=ffffff&border_radius=5&order=3" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=MenoniJesus" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=MenoniJesus" height="150" />
+  <img src="https://streak-stats.demolab.com?user=MenoniJesus&theme=dark&locale=en&mode=daily&currStreakNum=50fa7b&sideNums=f8f8f2&sideLabels=50fa7b&dates=ffffff&border_radius=5&order=3" height="150" />
+</div>
 
 ## Skills
 <div>
