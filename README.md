@@ -1,35 +1,40 @@
-## Opa Mochi Mochi, tudo bão? Prazer, Leandro Menoni.
-
-  Sou estudante do 3º ano de Engenharia de Software no IFPR. Adoro aprender coisas novas e me desafiar constantemente. Nos meus momentos livres, curto jogar. Se quiser bater um papo ou jogar junto, sinta-se à vontade para me adicionar no Discord ou na Steam. Tenha um ótimo dia!
-##
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=MenoniJesus" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=MenoniJesus" height="150" alt="languages graph"  />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Opa+Mochi+Mochi,+tudo+b%C3%A3o%3F+Prazer,+Leandro+Menoni,+ou+MenoniJesus.;Hi+there!+I'm+Leandro+Menoni,+also+known+as+MenoniJesus." alt="Greeting Typing SVG" />
 </p>
 
-## 🚀 Skills
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="52"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="52" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="52" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="52" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="MySQL" />
-</p>
+I am a third-year Software Engineering student at IFPR. I enjoy learning new and challenging things. I want to become a good game developer and, who knows, maybe also work as a DevSecOps, certified by AWS Cloud Practitioner. I am always open to exchanging knowledge and learning more. If you want to chat, just reach out to me on LinkedIn or Discord.
 
-## 📱 Social Networks
-<a href="https://www.linkedin.com/in/menonileandro" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"  />
-</a>
-<a href="https://discord.com/users/564284525543424001" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"  />
-</a>
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=MenoniJesus" />
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=MenoniJesus" />
+    </td>
+    <td width="35%" align="center">
+      <img src="https://streak-stats.demolab.com?user=MenoniJesus&theme=dark&locale=en&mode=daily&currStreakNum=50fa7b&sideNums=f8f8f2&sideLabels=50fa7b&dates=ffffff&border_radius=5&order=3" />
+    </td>
+  </tr>
+</table>
 
-## 🎮 Games
-<a href="https://steamcommunity.com/id/menonin232/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="110" height="35" alt="Steam"  />
-</a>
+## Skills
+<div>
+  <h3>Languages & Frameworks & Databases:</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring,react" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" height="40" />
+</div>
+
+<div>
+  <h3>DevOps & Operating Systems:</h3>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,docker,aws" height="40" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arch,windows" height="40" />
+</div>
+
+<br/>
+
+## Social Networks: <a href="https://www.linkedin.com/in/menonileandro" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a> <a href="https://discord.com/users/564284525543424001" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MenoniJesus/MenoniJesus/output/github-contribution-grid-snake-dark.svg">
