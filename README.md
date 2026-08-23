@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Opa+Mochi+Mochi,+tudo+b%C3%A3o%3F+Prazer,+Leandro+Menoni,+ou+MenoniJesus.;Hi+there!+I'm+Leandro+Menoni,+also+known+as+MenoniJesus." alt="Greeting Typing SVG" />
 </p>
 
-I am a third-year Software Engineering student at IFPR. I enjoy learning new and challenging things. I want to become a good game developer and, who knows, maybe also work as a DevSecOps, certified by AWS Cloud Practitioner. I am always open to exchanging knowledge and learning more. If you want to chat, just reach out to me on LinkedIn or Discord.
+I'm a Software Engineering student at IFPR, into game dev, software architecture, and applied AI. Currently working on a farm-life sim with AI-powered NPC dialogue as part of my capstone project. Always open to exchanging knowledge, reach out via LinkedIn or Discord.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=MenoniJesus" height="150" />
